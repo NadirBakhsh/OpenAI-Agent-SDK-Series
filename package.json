@@ -1,0 +1,31 @@
+{
+  "name": "OpenAI-Agent-SDK-Series",
+  "version": "1.0.0",
+  "description": "Practical examples and tutorials for building OpenAI agents using the OpenAI Agents SDK — step-by-step guides and sample projects.",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "step_01:start": "node --watch Step_01/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "agents",
+    "agent-sdk",
+    "chatgpt",
+    "tutorial",
+    "example",
+    "nodejs",
+    "ai",
+    "learning",
+    "sdk"
+  ],
+  "author": "Nadir Bakhsh",
+  "license": "ISC",
+  "dependencies": {
+    "@openai/agents": "^0.3.0",
+    "dotenv": "^17.2.3",
+    "zod": "3"
+  }
+}

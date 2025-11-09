@@ -32,4 +32,7 @@ Quick tips for Python developers:
 - Contributions translating examples or adding Python labs are welcome — please open a PR.
 
 ## Table of Contents
-- [Step_00: Introduction to Agentic AI](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_00)
+1. [Step_00: Introduction to Agentic AI](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_00)
+2. [Step_01: Building a Simple Agent with OpenAI SDK](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_01)
+
+
