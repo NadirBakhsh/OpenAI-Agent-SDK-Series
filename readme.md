@@ -30,3 +30,6 @@ Quick tips for Python developers:
 - Replace client libraries with their Python equivalents (e.g., OpenAI Python SDK).
 - Tests and examples can be rewritten using pytest or unittest.
 - Contributions translating examples or adding Python labs are welcome — please open a PR.
+
+## Table of Contents
+- [Step_00: Introduction to Agentic AI](./docs/intro.md)
