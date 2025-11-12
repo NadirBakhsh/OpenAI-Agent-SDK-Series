@@ -7,6 +7,7 @@
   "type": "module",
   "scripts": {
     "step_01:start": "node --watch Step_01/index.js",
+    "step_02:start": "node --watch Step_02/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

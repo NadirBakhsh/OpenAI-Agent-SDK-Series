@@ -34,5 +34,6 @@ Quick tips for Python developers:
 ## Table of Contents
 1. [Step_00: Introduction to Agentic AI](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_00)
 2. [Step_01: Building a Simple Agent with OpenAI SDK](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_01)
+3. [Step_02: Creating Tools for Agents](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_02)
 
 
