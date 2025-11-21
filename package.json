@@ -10,6 +10,7 @@
     "step_02:start": "node --watch Step_02/index.js",
     "step_03:start": "node --watch Step_03/index.js",
     "step_04:start": "node --watch Step_04/index.js",
+    "step_05:start": "node --watch Step_05/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
