@@ -38,5 +38,4 @@ Quick tips for Python developers:
 4. [Step_03: Specifying Output Types for Agents](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_03)
 5. [Step_04: Multiple Agents](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_04)
 6. [Step_05: Handoffs](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_05)
-
-
+7. [Step_06: Guardrails](https://github.com/NadirBakhsh/OpenAI-Agent-SDK-Series/tree/main/Step_06)
